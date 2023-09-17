@@ -1,4 +1,4 @@
-# Company Operations Management System
+# CORE SCRIPT
 Este é o repositório principal do sistema de gerenciamento de operações em uma empresa, que inclui operações de vendas e consultas, além da geração de relatórios.
 
 ## Instalação
